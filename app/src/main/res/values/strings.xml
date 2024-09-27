@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="button">PROMEDIO</string>
+    <string name="button2">MAYOR</string>
+    <string name="button3">MENOR</string>
+    <string name="txtNota1">Ingrese Nota 1</string>
+    <string name="txtNota2">Ingrese Nota 2</string>
+    <string name="txtNota3">Ingrese Nota 3</string>
+    <string name="txtNota4">Ingrese Nota 4</string>
+</resources>
